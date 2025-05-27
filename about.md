@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: 산업정보시스템전공 20학번 김경민 입니다.
 permalink: /about/
 ---
 
-Some information about you!
+OSS 강의를 수강중인 김경민 입니다. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+E-mail : sam2746@naver.com
+Instagram : kmin_yee
 
+! [사진](./images/인텔리제이.png)
